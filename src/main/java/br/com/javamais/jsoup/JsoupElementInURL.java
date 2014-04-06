@@ -11,7 +11,7 @@ import org.jsoup.select.Elements;
 
 /**
  *
- * @author ho
+ * @author javamais
  */
 public class JsoupElementInURL {
     
